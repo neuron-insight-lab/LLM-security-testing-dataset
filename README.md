@@ -42,7 +42,7 @@
 │           ├── method_X.json
 │           └── ... (多个单轮越狱方法文件)
 │
-├── CONTRIBUTING.md
+├── run_eval.py
 ├── LICENSE
 └── README.md
 ```
